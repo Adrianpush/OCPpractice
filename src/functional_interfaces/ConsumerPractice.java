@@ -1,4 +1,4 @@
-package FunctionalInterfacesAndStreams;
+package functional_interfaces;
 
 import java.util.function.BiConsumer;
 import java.util.function.Consumer;

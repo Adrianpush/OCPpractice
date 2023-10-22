@@ -1,4 +1,4 @@
-package FunctionalInterfacesAndStreams;
+package functional_interfaces;
 
 import java.util.Random;
 import java.util.function.Supplier;
