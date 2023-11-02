@@ -1,5 +1,6 @@
 package streams;
 
+import javax.swing.tree.TreeNode;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
@@ -34,4 +35,6 @@ public class StreamGenerators {
      * Streams.iterate takes in a source value and UnaryOperator
      */
     Stream<Long> longStream2 = Stream.iterate(1L, a -> a + 1);
+
+
 }

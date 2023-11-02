@@ -2,8 +2,8 @@ package generics;
 
 import java.util.Iterator;
 import java.util.List;
-//
-//public class ListProcessor {
+
+public class ListProcessor {
 //
 //    public List<Number> doesThisWork(List<Integer> list) {
 //        System.out.println("No, it doesn't.");
@@ -15,4 +15,4 @@ import java.util.List;
 //    public List<Integer> doesThisWork(List<Integer> list) {
 //        System.out.println("No, it doesn't.");
 //    }
-//}
+}
