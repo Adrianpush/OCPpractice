@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4daa126-8b5b-4841-9387-26d68b8c7d4e" name="Changes" comment="Added Terminal Operations for Streams">
-      <change afterPath="$PROJECT_DIR$/src/threads/StartingMultipleThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/ThreadLifeCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/creation/MyAnonymousClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/creation/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/creation/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/creation/ThreadWithLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/executors/CallableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/executors/ExecutorsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/executors/ThreadPoolExecutorExample.java" afterDir="false" />
+    <list default="true" id="a4daa126-8b5b-4841-9387-26d68b8c7d4e" name="Changes" comment="threads practice">
+      <change afterPath="$PROJECT_DIR$/src/design_patterns/BuilderPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design_patterns/FacadeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design_patterns/FactoryPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design_patterns/SingletonPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional_interfaces/SupplierPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interfaces/SupplierPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/ListProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/ListProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/StreamGenerators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/StreamGenerators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +25,24 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="85bb56b4-3b3d-42c8-9a92-1befb5726c4b" />
+        <option name="url" value="https://github.com/Adrianpush/OCPpractice.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -163,13 +173,22 @@
       <option name="project" value="LOCAL" />
       <updated>1697984604665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="threads practice">
+      <option name="closed" value="true" />
+      <created>1698957425941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698957425942</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added Supplier Practice and Consumer Practice" />
     <MESSAGE value="Refactoring and Stream Generators" />
     <MESSAGE value="Added Terminal Operations for Streams" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Terminal Operations for Streams" />
+    <MESSAGE value="threads practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="threads practice" />
   </component>
 </project>
