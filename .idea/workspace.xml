@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4daa126-8b5b-4841-9387-26d68b8c7d4e" name="Changes" comment="threads practice">
-      <change afterPath="$PROJECT_DIR$/src/design_patterns/BuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design_patterns/FacadeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design_patterns/FactoryPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design_patterns/SingletonPattern.java" afterDir="false" />
+    <list default="true" id="a4daa126-8b5b-4841-9387-26d68b8c7d4e" name="Changes" comment="design patterns practice">
+      <change afterPath="$PROJECT_DIR$/src/StringPractice/FormatTableRecords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringPractice/SpiralProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,16 +24,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN"
+      &quot;state&quot;: &quot;OPEN&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -64,7 +62,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreadPoolExecutorExample">
+  <component name="RunManager" selected="Application.SpiralProblem">
     <configuration name="CallableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="threads.executors.CallableExample" />
       <module name="OCP Practice" />
@@ -91,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartingMultipleThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.StartingMultipleThreads" />
+    <configuration name="FormatTableRecords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPractice.FormatTableRecords" />
       <module name="OCP Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threads.*" />
+          <option name="PATTERN" value="StringPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLifeCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.ThreadLifeCycle" />
+    <configuration name="SpiralProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPractice.SpiralProblem" />
       <module name="OCP Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threads.*" />
+          <option name="PATTERN" value="StringPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpiralProblem" />
+        <item itemvalue="Application.FormatTableRecords" />
         <item itemvalue="Application.ThreadPoolExecutorExample" />
         <item itemvalue="Application.CallableExample" />
         <item itemvalue="Application.ExecutorsExample" />
-        <item itemvalue="Application.ThreadLifeCycle" />
-        <item itemvalue="Application.StartingMultipleThreads" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698957425942</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="design patterns practice">
+      <option name="closed" value="true" />
+      <created>1699360950137</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699360950137</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,6 +195,17 @@
     <MESSAGE value="Refactoring and Stream Generators" />
     <MESSAGE value="Added Terminal Operations for Streams" />
     <MESSAGE value="threads practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="threads practice" />
+    <MESSAGE value="design patterns practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="design patterns practice" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
